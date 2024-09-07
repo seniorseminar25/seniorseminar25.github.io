@@ -1,0 +1,43 @@
+
+LAYOUT
+
+centered
+	'senior seminar'
+	links
+		'home' 'write up' 'advisors' 'repository' 'data'
+
+
+
+
+HOME/MAIN
+
+	purpose of project
+		what is our product? marketablity to companies? maybe short history of this project?
+
+	advisors
+		background, related research, contact information, etc
+
+	images
+		maybe?
+
+	footer
+		contact information of members
+
+
+WRITE-UP
+	
+	more in-depth write up of the project
+	related images
+
+
+ADVISORS
+
+	might not be a nessicary page tbh
+
+REPOSITORY
+
+	maybe a gridded chart of related papers with brief summaries, authors, publication/school
+
+DATA
+
+	self explanitory, raw data with analysis 

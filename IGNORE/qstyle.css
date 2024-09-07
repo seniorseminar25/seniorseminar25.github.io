@@ -1,0 +1,46 @@
+/*header style*/
+header {
+	text-align: center;
+	padding: 20px;
+}
+/*navigation menu style*/
+nav {
+	text-align: center;
+	word-spacing: 30px;
+	Padding: 10px;
+}
+/*background color*/
+body {
+	background-color: #00cc66;
+}
+
+
+
+
+/*creating the two-column layout*/
+*{
+	box-sizing: border-box;
+}
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+}
+.post-text-box {
+	flex: 70%;
+	padding: 20px;
+}
+.profile {
+	flex: 70%;
+	padding: 20px;
+}
+/*profile image and heading style*/
+.profile img {
+	width: 120px;
+	display: block;
+	margin-left: 0;
+	margin-right: 0;
+}
+.profile h1 {
+	text-align: center;
+}
