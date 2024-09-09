@@ -21,6 +21,12 @@ body {
 	background-color: #ffffff;
 	font-size: 20px;
 }
+/*footer style*/
+footer {
+	nav {
+		font-size: 15px;
+	}
+}
 
 /*gradient background color
 body {
