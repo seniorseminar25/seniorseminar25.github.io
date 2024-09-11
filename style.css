@@ -21,7 +21,18 @@ body {
 	font-size: 20px;
 }
 /*footer style*/
+
 footer {
+	border-style: solid;
+	color: #5d1725;
+	background-color: #DAC79D;
+	table {
+		border-style: inset;
+		border-width: 5px;
+	}
+	/*tr {
+		background-color: #C1C6C8;
+	}*/
 	nav {
 		font-size: 15px;
 	}
