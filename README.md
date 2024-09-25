@@ -1,0 +1,1 @@
+This is a website created by James Armstrong (tarmstrong228) for a senior design project at Mississippi State University. The website details the members, outline, faculty advisors, and general plan of the project.
