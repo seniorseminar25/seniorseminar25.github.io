@@ -19,6 +19,12 @@ body {
 	/*background-color: #c1c6c8;*/
 	background-color: #ffffff;
 	font-size: 20px;
+	iframe {
+		overflow: scroll;
+		border-style: solid;
+		padding: 20px;
+		background-color: #DAC79D;
+	}
 }
 /*footer style*/
 

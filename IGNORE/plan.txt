@@ -41,3 +41,10 @@ REPOSITORY
 DATA
 
 	self explanitory, raw data with analysis 
+
+
+
+Acknowledgments adjust
+
+	alijandro martinez - supplimentary - mechanical department
+	will - supplimentary - hand labs
